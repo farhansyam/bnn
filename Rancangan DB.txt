@@ -1,0 +1,37 @@
+Rancangan DB
+
+//user
+username
+pw
+
+
+//Main Menu
+1 id
+2 nama_menu
+2 menu link
+3 status
+4 timestamp sd
+5 kode_bahasa
+
+//galleries
+1 id
+2 url
+3 id_main_menu
+4 id_second_menu
+
+//videos
+1 id
+2 url
+3 id_section
+
+//second Menu
+1 id
+2 id_main_menu
+3 nama_second_menu
+4 icon/gambar
+
+//kategori?
+
+//slide perkembangan
+1 id 
+2 gambar
